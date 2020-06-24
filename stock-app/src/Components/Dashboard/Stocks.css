@@ -1,0 +1,13 @@
+.dashboard {
+ margin-left: 35px;
+}
+
+.ticker p {
+    font-size: 24px;
+    position: relative;
+  }
+  
+.ticker a {
+    font-weight: bold;
+    color: rgb(41, 41, 168);
+  }

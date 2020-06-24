@@ -1,0 +1,21 @@
+.details {
+    
+    padding-bottom: 30px;
+}
+.current-price-details {
+    padding-left: 20px;
+    color: rgb(41, 41, 168);
+}
+.price-details {
+    padding-left: 50px;
+}
+.current {
+    font-weight: bolder;
+    color: rgb(41, 41, 168);
+}
+.high {
+    color: rgb(21, 97, 21);
+}
+.low {
+    color: rgb(151, 17, 17);
+}
