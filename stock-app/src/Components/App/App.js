@@ -9,6 +9,8 @@ import {Route, Link, Switch, Redirect} from "react-router-dom";
 import './App.css';
 
 function App() {
+  console.log(dowjones.ticker)
+
 return (
     <div>
     <nav>
@@ -29,10 +31,9 @@ return (
         <Route path="/about" component={About} />
         <Route exact path="/dashboard" component={DowJonesIndex} />
         <Route path="/stock/:ticker"
-          render={({routerProps}) =>
-            <PriceDetails {...routerProps}
-             ticker={dowjones.ticker}
-            /> 
+          render={(routerProps) =>
+            <PriceDetails {...routerProps}/> 
+            //Ticker is nested under match.params.ticker when inspecting Props in the single-company view
             }/>
         <Route path="*" 
           render={()=> 
