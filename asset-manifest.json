@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/stocks-API-app/stock-app/static/css/main.afb2ed32.chunk.css",
-    "main.js": "/stocks-API-app/stock-app/static/js/main.05e8641c.chunk.js",
-    "main.js.map": "/stocks-API-app/stock-app/static/js/main.05e8641c.chunk.js.map",
-    "runtime-main.js": "/stocks-API-app/stock-app/static/js/runtime-main.10e60476.js",
-    "runtime-main.js.map": "/stocks-API-app/stock-app/static/js/runtime-main.10e60476.js.map",
-    "static/js/2.f904f809.chunk.js": "/stocks-API-app/stock-app/static/js/2.f904f809.chunk.js",
-    "static/js/2.f904f809.chunk.js.map": "/stocks-API-app/stock-app/static/js/2.f904f809.chunk.js.map",
-    "index.html": "/stocks-API-app/stock-app/index.html",
-    "precache-manifest.c30b36cdb4dcd387e8b0e49b3b3dc692.js": "/stocks-API-app/stock-app/precache-manifest.c30b36cdb4dcd387e8b0e49b3b3dc692.js",
-    "service-worker.js": "/stocks-API-app/stock-app/service-worker.js",
-    "static/css/main.afb2ed32.chunk.css.map": "/stocks-API-app/stock-app/static/css/main.afb2ed32.chunk.css.map",
-    "static/js/2.f904f809.chunk.js.LICENSE.txt": "/stocks-API-app/stock-app/static/js/2.f904f809.chunk.js.LICENSE.txt"
+    "main.css": "/react-stocks/static/css/main.afb2ed32.chunk.css",
+    "main.js": "/react-stocks/static/js/main.05e8641c.chunk.js",
+    "main.js.map": "/react-stocks/static/js/main.05e8641c.chunk.js.map",
+    "runtime-main.js": "/react-stocks/static/js/runtime-main.2acd0d34.js",
+    "runtime-main.js.map": "/react-stocks/static/js/runtime-main.2acd0d34.js.map",
+    "static/js/2.f904f809.chunk.js": "/react-stocks/static/js/2.f904f809.chunk.js",
+    "static/js/2.f904f809.chunk.js.map": "/react-stocks/static/js/2.f904f809.chunk.js.map",
+    "index.html": "/react-stocks/index.html",
+    "precache-manifest.6ecf2e11418bf4e77fbfb33e37e15571.js": "/react-stocks/precache-manifest.6ecf2e11418bf4e77fbfb33e37e15571.js",
+    "service-worker.js": "/react-stocks/service-worker.js",
+    "static/css/main.afb2ed32.chunk.css.map": "/react-stocks/static/css/main.afb2ed32.chunk.css.map",
+    "static/js/2.f904f809.chunk.js.LICENSE.txt": "/react-stocks/static/js/2.f904f809.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.10e60476.js",
+    "static/js/runtime-main.2acd0d34.js",
     "static/js/2.f904f809.chunk.js",
     "static/css/main.afb2ed32.chunk.css",
     "static/js/main.05e8641c.chunk.js"
